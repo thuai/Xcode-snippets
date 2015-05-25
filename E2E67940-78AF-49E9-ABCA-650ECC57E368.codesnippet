@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pns</string>
+	<string>enum</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>TopLevel</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, strong) &lt;#type#&gt; &lt;#name#&gt;</string>
+	<string>typedef NS_ENUM(&lt;#type#&gt;, &lt;#_name#&gt;) {
+    &lt;#enum item#&gt;
+};
+
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>F51E8AEA-143C-45FB-A09A-2D533F31DA4B</string>
+	<string>E2E67940-78AF-49E9-ABCA-650ECC57E368</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@property (nonatomic, strong)</string>
+	<string>typedef NS_ENUM</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>property nonatomic strong</string>
+	<string>type NS_ENUM</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

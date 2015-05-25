@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>todo</string>
+	<string>pmv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: &lt;#description#&gt;</string>
+	<string>#pragma mark - Private methods</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D88DA88D-162A-4F8A-8978-2711D5048FDD</string>
+	<string>88A06C7C-2F48-4351-9A91-B30A5D85A39E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>// TODO</string>
+	<string>pragma mark Private methods</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

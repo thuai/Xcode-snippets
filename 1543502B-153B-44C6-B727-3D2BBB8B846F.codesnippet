@@ -3,22 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>todo</string>
+	<string>pna</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: &lt;#description#&gt;</string>
+	<string>@property (nonatomic, assign) &lt;#type#&gt; &lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D88DA88D-162A-4F8A-8978-2711D5048FDD</string>
+	<string>1543502B-153B-44C6-B727-3D2BBB8B846F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>property assign</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>// TODO</string>
+	<string>Property assign</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
