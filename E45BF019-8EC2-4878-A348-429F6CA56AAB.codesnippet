@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pnw</string>
+	<string>NSMutableArray</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic,   weak) &lt;#type#&gt; &lt;#value#&gt;</string>
+	<string>NSMutableArray *&lt;#name#&gt; = [[NSMutableArray alloc] init];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>8ABC69E3-E62C-40C6-86AE-220A9A12711B</string>
+	<string>E45BF019-8EC2-4878-A348-429F6CA56AAB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>property weak</string>
+	<string>NSMutableArray object</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property weak</string>
+	<string>Mutable arrray alloc and init</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

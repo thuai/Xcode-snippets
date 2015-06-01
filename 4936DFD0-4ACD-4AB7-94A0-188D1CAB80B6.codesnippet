@@ -9,14 +9,7 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>//
-// 
-//
-// Platform: iOS
-// Language: Objective-C
-// Completion Scope: Code Expression
-
-[[UIImageView alloc] initWithImage:[UIImage imageNamed:@"&lt;#image name#&gt;"]]
+	<string>[[UIImageView alloc] initWithImage:[UIImage imageNamed:@"&lt;#image name#&gt;"]]
 </string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>4936DFD0-4ACD-4AB7-94A0-188D1CAB80B6</string>
