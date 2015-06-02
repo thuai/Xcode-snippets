@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>NSMutableArray</string>
+	<string>@weakifyself</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeExpression</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSMutableArray *&lt;#name#&gt; = [[NSMutableArray alloc] init];</string>
+	<string>@weakify(self);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E45BF019-8EC2-4878-A348-429F6CA56AAB</string>
+	<string>58992337-F767-4C6B-9C56-A5B13EE1ACB8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>NSMutableArray object</string>
+	<string>weak self</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mutable arrray alloc and init</string>
+	<string>@weakify(self)</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
